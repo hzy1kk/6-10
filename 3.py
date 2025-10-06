@@ -6,7 +6,9 @@ valores = [
     True,
     False,
     [15, 26, 10],
-    {"x": "valor"}
+    {"x": "valor"},
+    (1, 2, 3),    
+    {4, 5, 6}     
 ]
 
 for valor in valores:
